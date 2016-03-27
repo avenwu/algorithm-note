@@ -12,5 +12,10 @@
 
 	相关代码：[max-heap-sort.swift](max-heap-sort.swift), [min-heap-sort.swift](min-heap-sort.swift)
 	
-* 
- 
+*  快速排序
+
+	相关代码：[quick-sort.swift](quick-sort.swift), [randomized-quick-sort.swift](randomized-quick-sort.swift)
+
+* 计数排序
+
+	相关代码：[counting-sort.swift](counting-sort.swift)
